@@ -1,1 +1,1 @@
-My first readme
+exercise 1
